@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-# Contents
 
 - [Related Lists](#related-lists)
 - [Port Scanners](#port-scanners)
