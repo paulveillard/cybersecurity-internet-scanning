@@ -2,7 +2,7 @@
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Internet Scanning in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Table of Contents
+## `Table of Contents`
 
 
 - [Related Lists](#related-lists)
@@ -10,11 +10,11 @@ An ongoing & curated collection of awesome software best practices and technique
 - [DNS Scanners](#dns-scanners)
 - [Nmap Tools](#nmap-tools)
 
-## Related Lists
+## `Related Lists`
 
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 
-# Port Scanners 
+# `Port Scanners`
 
 - [dscan](https://github.com/dugsong/dscan) - asynchronous TCP host scanner.
 - [lzr](https://github.com/stanford-esrg/lzr) - Internet-wide scanner that detects and fingerprints unexpected services on unexpected ports
@@ -25,7 +25,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [xmap](https://github.com/idealeer/xmap) - XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning
 - [zmap](https://github.com/zmap/zmap) - a fast single packet network scanner designed for Internet-wide network surveys. 
 
-# DNS Scanners 
+# `DNS Scanners`
 
 - [dns-scanner](https://github.com/avin/dns-scanner) - fast asynchronous NS scanner to locate subdomains.
 - [massdns](https://github.com/blechschmidt/massdns) - high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration).
@@ -45,7 +45,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 **[`^        back to top        ^`](#)**
 
-## License
+## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
