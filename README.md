@@ -30,7 +30,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [dns-scanner](https://github.com/avin/dns-scanner) - fast asynchronous NS scanner to locate subdomains.
 - [massdns](https://github.com/blechschmidt/massdns) - high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration).
 
-# Nmap Tools
+# `Nmap Tools`
 
 - [dscan](https://github.com/0x4E0x650x6F/dscan) - Distributed Nmap, wrapper around Nmap to allow distributed network enumeration.
 - [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner.
